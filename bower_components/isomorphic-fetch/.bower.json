@@ -1,0 +1,21 @@
+{
+  "name": "isomorphic-fetch",
+  "main": [
+    "fetch-bower.js"
+  ],
+  "dependencies": {
+    "fetch": "github/fetch#^3.4.1"
+  },
+  "homepage": "https://github.com/matthew-andrews/isomorphic-fetch",
+  "version": "3.0.0",
+  "_release": "3.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v3.0.0",
+    "commit": "9e6cc4248661ece03e78c4d757f77ae7062f8cee"
+  },
+  "_source": "https://github.com/matthew-andrews/isomorphic-fetch.git",
+  "_target": "^3.0.0",
+  "_originalSource": "isomorphic-fetch",
+  "_direct": true
+}
